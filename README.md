@@ -1,7 +1,7 @@
 # authoraid-diseases
-Automation of extraction citations with references by disease names from Elsevier Text Mining 
+Automation of extraction citations with references and drugs and biomarkers by disease names 
 
-To retrieve information (list of citations with references) from Elsevier Text Mining (https://demo.elseviertextmining.com/) with queries presented here, you need to know the disease name(s) and have a personal key to access the product API. 
+To information about diseases from literature, you need to know the disease name(s) and have API KEY for ETM and PSE/Resnet. Or transferred SQL queries presented here for python API available in …
 
 The retrieved references covers: 
 -	Terminology
@@ -9,7 +9,9 @@ The retrieved references covers:
 -	Clinical presentation / Diagnosis 
 -	Etiology / Pathology (genetics, biomarkers, pathways) 
 -	Treatment / Follow-Up; 
--	Case studies. 
+-	Case studies.
+
+To retrieve information (list of citations with references) from Elsevier Text Mining (https://demo.elseviertextmining.com/) with queries presented here, you need to know the disease name(s) and have a personal key to access the product API. 
 
 Step 1.
 Find and replace “YOUR-API-KEY” with actual ETM API key on “list queries” sheet in ETMinput.xlsx Excel file.
