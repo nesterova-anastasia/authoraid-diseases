@@ -37,3 +37,5 @@ Example of complex query:
 Examples for additional commands are:
 /exa - flag for exact term searching
 /noexa - flag to turn off exact term searching
+
+The code used in Author Aid project https://elsevier.digitalcommonsdata.com/collections/097f5f99-914c-4657-b89a-04b26842fc1f
