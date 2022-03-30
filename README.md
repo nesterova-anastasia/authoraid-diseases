@@ -1,8 +1,6 @@
 # authoraid-diseases
 Automation of extraction citations with references and drugs and biomarkers by disease names 
 
-To information about diseases from literature, you need to know the disease name(s) and have API KEY for ETM and PSE/Resnet. Or transferred SQL queries presented here for python API available in …
-
 The retrieved references covers: 
 -	Terminology
 -	Epidemiology / Demographics
